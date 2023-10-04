@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarApp5</string>
+    <string name="title_activity_edit_car">EditCarActivity</string>
+</resources>
